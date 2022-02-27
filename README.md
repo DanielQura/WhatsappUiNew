@@ -1,1 +1,1 @@
-This Flutter project is whatsapp clonejst ui
+This Flutter project is whatsapp clone just Ui
