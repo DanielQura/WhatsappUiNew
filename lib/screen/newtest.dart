@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Calls extends StatefulWidget {
-  const Calls({Key? key}) : super(key: key);
+class JustTest extends StatefulWidget {
+  const JustTest({Key? key}) : super(key: key);
 
   @override
-  _CallsState createState() => _CallsState();
+  _JustTestState createState() => _JustTestState();
 }
 
-class _CallsState extends State<Calls> {
+class _JustTestState extends State<JustTest> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -18,7 +18,7 @@ class _CallsState extends State<Calls> {
       ),
       body: const Center(
         child: Text(
-          "Calls Screen",
+          "Just Test Screen",
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 24,
